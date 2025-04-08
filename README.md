@@ -1,16 +1,30 @@
-# personal_fit
+# Personal Fit
 
-A new Flutter project.
+**Personal Fit** is a modern fitness tracking app built with Flutter. It helps users stay on top of their fitness goals with features like workout tracking, progress monitoring, personalized plans, and more — all wrapped in a smooth and responsive UI.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🏋️‍♀️ Track daily workouts and exercises  
+- 📊 Visualize progress through interactive graphs  
+- 🎯 Set and manage fitness goals  
+- 📝 Log custom routines and activities  
+- 🔔 Daily reminders to stay active  
+- 🌙 Dark mode support  
+- 📱 Cross-platform support for Android and iOS  
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** for cross-platform mobile development  
+- **Dart** as the core programming language  
+- **Provider** (or Bloc) for state management  
+- **Firebase** (optional) for user authentication and cloud storage  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧪 Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/your-username/personal_fit.git
+cd personal_fit
+flutter pub get
+flutter run
