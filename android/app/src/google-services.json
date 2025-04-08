@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520929033585",
+    "project_id": "presonalfit-authentification",
+    "storage_bucket": "presonalfit-authentification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520929033585:android:7f5e18415de16f43288ad0",
+        "android_client_info": {
+          "package_name": "com.example.personal_fit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp9UWn9x23ohOudA7xRK9e3rEIIu-BQ7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
