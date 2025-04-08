@@ -16,8 +16,7 @@
 
 - **Flutter** for cross-platform mobile development  
 - **Dart** as the core programming language  
-- **Provider** (or Bloc) for state management  
-- **Firebase** (optional) for user authentication and cloud storage  
+- **Firebase** for user authentication and cloud storage  
 
 ## 🧪 Getting Started
 
